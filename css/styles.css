@@ -1,0 +1,34 @@
+/************************** TAG SELECTORS   **************************/
+body{
+    background-color: whitesmoke
+}
+
+/************************** CLASS SELECTORS   **************************/
+.planta{
+    background-color: #9bcc50;
+}
+.veneno{
+    background-color: #b97fc9;
+    color: #fff;
+}
+.fuego{
+    background-color: #fd7d24;
+    color:#fff
+}
+.agua{
+    background-color: #4592c4;
+    color: #fff;
+}
+.volador{
+    background: linear-gradient(180deg, #3dc7ef 50%, #bdb9b8 50%);
+    background-color: #3dc7;
+    color: #212121;
+}
+.bicho{
+    background-color:#729f3f ;
+    color:#fff;
+}
+
+
+/************************** ID SELECTORS   **************************/
+
